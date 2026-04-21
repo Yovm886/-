@@ -1,4 +1,3 @@
-.github/workflows/run_auto.yml
 name: 自动定时打卡运行
 
 on:
